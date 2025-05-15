@@ -11,7 +11,7 @@ This is a simple React application that allows users to change the background co
 
 ## 📸 Screenshot
 
-![Demo Screenshot](public/screenshot.png)
+![Demo Screenshot](screenshot.png)
 
 ## 🚀 Getting Started
 
