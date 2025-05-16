@@ -27,5 +27,5 @@ Make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/bg-color-changer.git
-cd bg-color-changer
+git clone https://github.com/dushyantsharma460/bgChanger-via-hooks
+cd bgChanger-via-hooks
